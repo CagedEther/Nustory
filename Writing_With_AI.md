@@ -65,12 +65,10 @@ What are some tips for the best headline? If you can get to short and provocativ
 
 The goal of this blog, like many others, is to explain concepts in a way that is relatable and conversational: like the way you might tell something to a friend. Generative AI tools like ChatGPT do a great job of explaining concepts but as we’ve already covered, can be a little dry with the output they provide. Here are some great examples to consider: 
 
-[**Leadership Blindspots That Make Employees Trust You Less**](https://www.notion.so/f09170d6b4fc445caa1a1884ed21b94f?pvs=21)
-
+[Leadership Blindspots That Make Employees Trust You Less](https://www.notion.so/f09170d6b4fc445caa1a1884ed21b94f?pvs=21)
 In this post on building trust in business, the style is informal, using short sentences, simple words, and a lot of ‘you’ to put the reader in the driving seat. This brings what could be a dry topic to life. 
 
-****[Floating solar on the equator could provide ‘limitless’ energy](https://electrek.co/2023/08/10/floating-solar-equator/)****
-
+[Floating solar on the equator could provide ‘limitless’ energy](https://electrek.co/2023/08/10/floating-solar-equator/)
 In this case, the topic is sustainability and energy. You can see how a number of statistics are woven throughout the piece, but they support the story at each stage.  it never feels like 
 
 **A note on writing** 
