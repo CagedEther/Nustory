@@ -47,11 +47,11 @@ Now we have the basic structure down, we can start filling in the gaps. Let's lo
 
 There are actually seven points in total and most are good, but this isn't exactly the format I want. So I can specify "give this to me in a paragraph" and this is what is received:
 
-*Oceans are pivotal in signaling and responding to climate change. They absorb roughly 90% of the excess heat from global warming, making oceanic temperature rises a key gauge of the phenomenon. Concurrently, the melting of polar ice caps and the thermal expansion of seawater lead to sea level rises, threatening coastal habitats and human settlements. Additionally, oceans absorb a significant portion of human-released CO2, resulting in ocean acidification, which jeopardizes marine species dependent on calcium carbonate. The planet's thermohaline circulation, or ocean circulation patterns, can be altered by temperature and salinity changes, impacting weather and marine ecosystems. Species are migrating due to changing temperatures, and warmer waters are causing coral bleaching, reducing marine biodiversity. Furthermore, declining sea ice in polar regions intensifies a feedback loop of increasing temperatures, while warmer ocean surfaces amplify the severity of tropical storms. Thus, the health and changes in oceans provide a multifaceted lens into the intricacies of our evolving climate.*
+>*Oceans are pivotal in signaling and responding to climate change. They absorb roughly 90% of the excess heat from global warming, making oceanic temperature rises a key gauge of the phenomenon. Concurrently, the melting of polar ice caps and the thermal expansion of seawater lead to sea level rises, threatening coastal habitats and human settlements. Additionally, oceans absorb a significant portion of human-released CO2, resulting in ocean acidification, which jeopardizes marine species dependent on calcium carbonate. The planet's thermohaline circulation, or ocean circulation patterns, can be altered by temperature and salinity changes, impacting weather and marine ecosystems. Species are migrating due to changing temperatures, and warmer waters are causing coral bleaching, reducing marine biodiversity. Furthermore, declining sea ice in polar regions intensifies a feedback loop of increasing temperatures, while warmer ocean surfaces amplify the severity of tropical storms. Thus, the health and changes in oceans provide a multifaceted lens into the intricacies of our evolving climate.*
 
 Much better, but we are trying to. be conversational here so this is a great time for me to step in and simplify this, making it more conversational, and only focusing on the key elements that are relevant to the story:
 
-*Oceans tell us a lot about climate change as they are an integral part of the Earth's ecosystem. They absorb 90% of heat from global warming, so monitoring temperature rise in the ocean tells us a lot about climate change generally. Oceans absorb a lot of the human-released carbon dioxide, which makes the oceans more acidic. Therefore the acid levels in the ocean are a proxy for the amount of emissions we are releasing into the atmosphere.*
+>*Oceans tell us a lot about climate change as they are an integral part of the Earth's ecosystem. They absorb 90% of heat from global warming, so monitoring temperature rise in the ocean tells us a lot about climate change generally. Oceans absorb a lot of the human-released carbon dioxide, which makes the oceans more acidic. Therefore the acid levels in the ocean are a proxy for the amount of emissions we are releasing into the atmosphere.*
 
 You can continue this process for each of the sections until you have the full draft for the post built out. Once you complete this, you’ll have the bullet point structure turned into a nice flowing blog post. Review the whole piece once more, looking mainly for neat linkages between the paragraphs, and making the flow still makes sense. 
 
@@ -66,10 +66,12 @@ What are some tips for the best headline? If you can get to short and provocativ
 The goal of this blog, like many others, is to explain concepts in a way that is relatable and conversational: like the way you might tell something to a friend. Generative AI tools like ChatGPT do a great job of explaining concepts but as we’ve already covered, can be a little dry with the output they provide. Here are some great examples to consider: 
 
 [Leadership Blindspots That Make Employees Trust You Less](https://www.notion.so/f09170d6b4fc445caa1a1884ed21b94f?pvs=21)
+
 In this post on building trust in business, the style is informal, using short sentences, simple words, and a lot of ‘you’ to put the reader in the driving seat. This brings what could be a dry topic to life. 
 
 [Floating solar on the equator could provide ‘limitless’ energy](https://electrek.co/2023/08/10/floating-solar-equator/)
-In this case, the topic is sustainability and energy. You can see how a number of statistics are woven throughout the piece, but they support the story at each stage.  it never feels like 
+
+In this case, the topic is sustainability and energy. You can see how a number of statistics are woven throughout the piece, but they support the story at each stage. It never feels like this is just a group of facts being thrown at you: the structure comes through clearly. 
 
 **A note on writing** 
 
