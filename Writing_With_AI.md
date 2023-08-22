@@ -43,7 +43,7 @@ You'll notice that there are some sections where AI is more useful. This is typi
 
 Now we have the basic structure down, we can start filling in the gaps. Let's look at this section: "Why oceans are important indicator of climate changing." I rephrase this as a question and pose this to an AI tool (ChatGPT in this case):
 
-!https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edbc51ff-bd7e-40a0-a6ac-578604dd17e3/image.png
+<img width="699" alt="image" src="https://github.com/CagedEther/Nustory/assets/142103717/cd211183-7b5d-42da-985f-2ec753906a83">
 
 There are actually seven points in total and most are good, but this isn't exactly the format I want. So I can specify "give this to me in a paragraph" and this is what is received:
 
