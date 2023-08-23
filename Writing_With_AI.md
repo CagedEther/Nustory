@@ -1,3 +1,6 @@
+<img width="955" alt="nustory banner wide aug 2023" src="https://github.com/CagedEther/Nustory/assets/142103717/f69e44ae-0723-41e6-9731-957da2a1f933">
+
+
 # **How generative AI can assist with writing**
 
 In the ever-evolving landscape of content creation, the use of generative AI tools has emerged as a game-changing trend. Rather than relying solely on personal intuition and manual research, blog writers can now harness the power of generative AI tools to enhance ideation, optimize content structure, and even predict reader engagement.
