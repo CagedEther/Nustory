@@ -100,7 +100,7 @@ As you can see with many of the examples shared here, coupling AI tools with mar
 
 A detailed post from McKinsey including stats on current adoption rates and a guide to getting started with generative AI for marketing. 
 
-****[How to Design an AI Marketing Strategy](https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategyhttps://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy)****
+[**How to Design an AI Marketing Strategy**](https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategyhttps://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy)
 
 A useful guide from the Harvard Business Review on thinking through strategic development, although note that this predated the emergence of generative AI and so doesn’t take that into account. 
 
