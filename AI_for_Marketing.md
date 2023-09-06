@@ -56,7 +56,7 @@ One of the cornerstones of ABM is delivering personalized content to each target
 
 ## **Marketing operations**
 
-Empowering marketing teams to function efficiently and effectively, is a key component to marketing success, and this is where marketing operations can play a pivotal role, helping align marketing goals with business objectives. 
+Empowering marketing teams to function efficiently and effectively is a key component to marketing success, and this is where marketing operations can play a pivotal role, helping align marketing goals with business objectives. 
 
 Technology platforms are increasing in adoption, whether it is for marketing automation and customer relationship management (CRM), data management and analytics, campaign planning and execution, budget management, or performance measurement. All these systems are increasingly using AI to bolster capabilities. 
 
