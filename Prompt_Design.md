@@ -67,20 +67,14 @@ Here are some resources to explore prompt design further:
 
 **Short courses on prompt design**
 
-[IBM Skillsbuild: Mastering the art of prompting](https://sb-auth.skillsbuild.org/login?referer=skills.yourlearning.ibm.com&lang=en&learning_path=https%3A%2F%2Fskills.yourlearning.ibm.com%2Factivity%2FMDL-298&response_type=code&redirect_uri=https%3A%2F%2Fskills.yourlearning.ibm.com%2Foauth%2Fcallback&scope=openid+email&client_id=yl-internal-adopter)
-
+[IBM Skillsbuild: Mastering the art of prompting](https://skills.yourlearning.ibm.com/activity/MDL-298) <br>
 [LI Learning: Introduction to prompt engineering](https://www.linkedin.com/learning/introduction-to-prompt-engineering-for-generative-ai/)
 
 **More resources and links**
 
-[Prompts useful for different areas of marketing](https://www.notion.so/bdb372c366fe43aa9e83af8106854f12?pvs=21)
-
-[Master these 8 ChatGPT prompting techniques](https://www.forbes.com/sites/jodiecook/2023/07/24/master-these-8-chatgpt-prompting-techniques-to-unlock-its-full-potential/?sh=42438a56c5f9)
-
-[Ten need-to-know techniques for prompt design](https://www.notion.so/watsonx-sample-prompts-07f0cfee5f6f41d48241a479927435ac?pvs=21)
-
-[Using ChatGPT to construct a founder’s story](https://www.notion.so/Nustory-Forbes-marketing-AI-2b4a7c80277146a4ba6ec3773e660ebf?pvs=21)
-
-[Open AI documentation on prompt design](https://platform.openai.com/docs/guides/gpt-best-practices/six-strategies-for-getting-better-results?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
-
+[Prompts useful for different areas of marketing](https://www.notion.so/bdb372c366fe43aa9e83af8106854f12?pvs=21) <br>
+[Master these 8 ChatGPT prompting techniques](https://www.forbes.com/sites/jodiecook/2023/07/24/master-these-8-chatgpt-prompting-techniques-to-unlock-its-full-potential/?sh=42438a56c5f9) <br>
+[Ten need-to-know techniques for prompt design](https://www.notion.so/watsonx-sample-prompts-07f0cfee5f6f41d48241a479927435ac?pvs=21) <br>
+[Using ChatGPT to construct a founder’s story](https://www.notion.so/Nustory-Forbes-marketing-AI-2b4a7c80277146a4ba6ec3773e660ebf?pvs=21) <br>
+[Open AI documentation on prompt design](https://platform.openai.com/docs/guides/gpt-best-practices/six-strategies-for-getting-better-results?utm_source=hackernewsletter&utm_medium=email&utm_term=fav) <br>
 [Midjourney documentation on prompt design](https://www.notion.so/watsonx-sample-prompts-07f0cfee5f6f41d48241a479927435ac?pvs=21)
