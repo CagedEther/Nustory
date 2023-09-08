@@ -6,11 +6,12 @@ One key feature of many Generative AI systems is their ability to take natural l
 
 For instance, an area that has emerged quickly is the ability to generate an image based on a typed request. Here’s an example from the [Adobe Firefly text-to-image generation tool](https://firefly.adobe.com/generate/images): 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/73774c66-d706-47b4-a21d-1dc393ce085f/706550df-efdd-4a7c-b5fc-e91bb4db3b7a/Untitled.png)
+<img width="835" alt="firefly" src="https://github.com/CagedEther/Nustory/assets/142103717/05e3f45e-cfdc-48ed-9a54-f49bbe268ac1">
 
 Similarly, some systems will generate text based on a prompt. Here is an example from [Anthropic’s Claude system](https://claude.ai/): 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/73774c66-d706-47b4-a21d-1dc393ce085f/7204aca7-33b9-42bb-97d4-47240a395834/Untitled.png)
+<img width="687" alt="claude" src="https://github.com/CagedEther/Nustory/assets/142103717/408074a5-c183-42d3-b1cf-b9005ac1f7c8">
+
 
 For the remainder of this article, we’ll focus on text-based content generation as this currently has more varied use cases in the business context, however you’ll find resources at the bottom of this article that deal with image-based Generative AI. It’s worth noting that these systems can also generate videos, computer code, and practically any form of data you can imagine.  
 
@@ -20,7 +21,7 @@ We will start with a very simple case and build from there. We’ll be using [Op
 
 One particular use of Generative AI is for getting to answers more efficiently than using search engines like Google. Need a recipe for fruit scones? Here’s an excerpt of a suggested recipe: 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/73774c66-d706-47b4-a21d-1dc393ce085f/867d83dd-f291-484f-ab0b-5968f2fdbdb2/Untitled.png)
+<img width="721" alt="scones" src="https://github.com/CagedEther/Nustory/assets/142103717/6f0dc04f-3074-4f15-9884-09d3b6a460ba">
 
 If you’re tempted and [want to see the full recipe, check it out!](https://github.com/CagedEther/Nustory/blob/45ca702b38dcf745e761fc7b381eb112e3a60247/ChatGPT%20Example%20Scones.pdf) 
 
@@ -32,7 +33,7 @@ This is useful, but as you can probably guess, isn’t radically different from 
 
 The real ‘generative’ element of these tools comes in their ability to create formatted and stylized content. For instance, if you want help writing an email to your team at the end of a quarter, here’s an example prompt: 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/73774c66-d706-47b4-a21d-1dc393ce085f/b759f9c8-01e4-4eff-89a2-d49dbdae4fbc/Untitled.png)
+<img width="761" alt="email" src="https://github.com/CagedEther/Nustory/assets/142103717/e05725f2-a967-4397-8c9c-e12513c392fe">
 
 [Check out the full email](https://github.com/CagedEther/Nustory/blob/4a2bb1893551a380bfdc1758939ea2808e9f5600/ChatGPT%20Example%20Email.pdf) to see the different sections and formatting. 
 
@@ -44,7 +45,7 @@ It’s also worth experimenting with tweaking the prompt and seeing what result 
 
 Many of the text-based systems allow you to continue the conversation and will ‘remember’ the context based on what was asked earlier. This allows for easy refinement and investigating follow-on ideas that you think of as the chat develops. Here’s an example: 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/73774c66-d706-47b4-a21d-1dc393ce085f/bbe46c09-fad2-42de-bdf0-3bbf435203d5/Untitled.png)
+<img width="742" alt="recycling" src="https://github.com/CagedEther/Nustory/assets/142103717/9c9c408b-c7cc-4286-871b-7271031b0bbb">
 
 As you can see, we didn’t need to reframe the context for the follow-on question. The system realizes that this question is in the same context as the first and took this into account in generating its response. 
 
