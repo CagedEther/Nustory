@@ -100,7 +100,7 @@ As you can see with many of the examples shared here, coupling AI tools with mar
 
 A detailed post from McKinsey including stats on current adoption rates and a guide to getting started with generative AI for marketing. 
 
-[**How to Design an AI Marketing Strategy**](https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategyhttps://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy)
+[**How to design an AI marketing strategy**](https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategyhttps://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy)
 
 A useful guide from the Harvard Business Review on thinking through strategic development, although note that this predated the emergence of generative AI and so doesn’t take that into account. 
 
@@ -108,6 +108,11 @@ A useful guide from the Harvard Business Review on thinking through strategic de
 
 A good article from Sprout Social on how AI is currently being used in marketing, and what are the opportunities for this technology. 
 
-[**Generative AI for Business Leaders**](https://www.linkedin.com/learning/generative-ai-for-business-leaders/generative-ai-for-business-leaders) 
+[**Generative AI for business leaders**](https://www.linkedin.com/learning/generative-ai-for-business-leaders/generative-ai-for-business-leaders) 
 
 A nice course that talks through the business imperative behind generative AI and how to think about adoption into business. (LinkedIn Learning account required).
+
+[**An explainer on the technology underpinning Generative AI**](https://ig.ft.com/generative-ai/)
+
+A simple page-level tutorial on Large Language Models (LLMs) and the technology that underpins them. 
+
