@@ -14,7 +14,7 @@ Nustory runs academic projects which pair business and marketing students with n
 
 [Getting started with prompt design](Prompt_Design.md) - How you can control Generative AI systems using text inputs. <br> 
 [Summarizing text with AI](AI_for_text_summarization.md) - How to use AI tools to quickly summarize lengthy transcripts. <br>
-[Empathy mapping for interviews](Empathy_Mapping.md) - Using the empathy map framework to guide in customer interviews. <br> 
+[Empathy mapping for interviews](Empathy_Mapping.md) - Using the empathy map framework as a guide in customer interviews. <br> 
 [Writing with AI](Writing_With_AI.md) - Tips on creating blogs and other external-facing marketing assets with AI. 
 
 
