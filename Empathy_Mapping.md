@@ -2,11 +2,11 @@
 
 # **How empathy mapping can help focus customer interviews**
 
-At the outset of any marketing campaign, it is important to understand user needs in as much detail as possible. The empathy mapping framework provides a great way to plan and conduct user interviews so that you gather as much information as possible. While the concept of empathy mapping was originally tied to design thinking, it has been adapted by various industries including software design, healthcare, education, and beyond. 
+At the outset of any marketing campaign, it is important to understand user needs in as much detail as possible. The empathy mapping framework provides a great way to plan and conduct user interviews that gets to the heart of the customer at an intimate level. While the concept of empathy mapping was originally tied to design thinking, it has been adapted by various industries including software design, healthcare, and education. 
 
 ## **What is an empathy map?**
 
-An empathy map is typically a large, empty quadrant diagram, which the team fills out collaboratively. The categories for the four quadrants are typically as follows:
+An empathy map is typically a large, empty quadrant diagram, that as its filled out provides a rounded view of the customer and their relationship to your product or service. The categories for the four quadrants are typically as follows:
 
 - **Think and Feel:** What is going through the user’s mind? What matters to them?
 - **Hear:** What are some things the user might hear in their environment? What are people telling them?
@@ -26,9 +26,63 @@ Empathy maps can be an excellent tool to prepare for, conduct, and analyze inter
 
 Before the interview they can be useful to develop the questions that will give you the most useful insights. How does the user feel about the product/service category in which you operate? What do they think about and what is their decision-making process? What is the social and physical environment they are in? Building out a sheet with all the questions listed in the empathy map categories can help organize a user interview and keep it focused. 
 
-During the interview, use the sheet to guide the discussion, and write notes within the specific sections. If the interview starts to drift off-topic, a glance at the empathy map can help steer the conversation back to areas that offer valuable insights.
+During the interview, use the sheet to guide the discussion, and write notes within the specific sections. If the interview starts to drift off-topic, a glance at the empathy map can help steer the conversation back to areas that offer valuable insights in the development of a marketing campaign.
 
 After the interview, you can write up the notes using the format of the empathy map quadrant to help organize ideas. [Tools like Mural](https://www.mural.co/) allow you to store and collaborate on this information digitally. Look specifically for insights on which you can act.  
+
+## Using Generative AI as a thought starter for empathy mapping 
+
+Generative AI tools can be useful for creating starter empathy maps for a given persona that can help guide the interview process, or to compare answers after an interview. For instance, using the prompt "Create an empathy map for an interview with an organic soap shopper" with Anthropic's Claude yields the following response: 
+
+>### What does the organic soap shopper think and feel?
+>
+>- Feels it's important to buy natural/organic products 
+>- Thinks mainstream soaps have too many chemicals
+>- Feels good supporting small/organic businesses
+>- Worries about products truly being organic 
+>- Feels overwhelmed by all the options
+>
+>### What does the organic soap shopper see?
+>
+>- Sees various organic soap brands and options
+>- Sees "organic" and "natural" labels everywhere
+>- Sees higher prices for organic soaps
+>- Sees ingredients lists they don't recognize
+>- Sees soap claims that seem dubious
+>
+>### What does the organic soap shopper hear?
+>
+>- Hears friends talking about chemical-free lifestyles
+>- Hears advertisements for organic soap products
+>- Hears debate around meanings of "organic" and "natural"
+>- Hears recommendations from blogs/influencers
+>- Hears skepticism about whether organic is really better
+>
+>### What does the organic soap shopper say and do?
+>
+>- Says she tries to live a natural, chemical-free lifestyle
+>- Expresses wariness about label claims of "organic" 
+>- Looks up ingredients and researches brands extensively
+>- Asks store employees lots of questions
+>- Tries out multiple natural soap brands 
+>
+>### What pains the organic soap shopper? 
+>
+>- High prices of some organic soap products
+>- Confusion over what terms like "organic" really mean
+>- Distrust of label claims and marketing around soaps
+>- Lack of clarity around health impacts of ingredients
+>- Knowing if she's making the right choices
+>
+>### What gains the organic soap shopper?
+>
+>- Peace of mind from choosing natural products
+>- Feeling of alignment with her values by buying organic 
+>- Sense of care for her family's health and wellbeing
+>- Trust in brands after research and trial and error
+>- Knowledge to see through dubious marketing claims
+
+We would not recommend building a whole campaign off this response in itself, but it is useful for creating starter questions and lines of reasoning to explore. Notice that in this instance the tool supplied the 'pains and gains' in addition to the core four questions, which is particularly useful in the marketing context. 
 
 ## Using Generative AI to analyze interviews
 
