@@ -1,0 +1,66 @@
+remote_theme: chrisrhymes/bulma-clean-theme
+
+# Site Settings
+lang: en
+title: Nustory 
+tagline: Nustory Project
+email: popularmusicfront@gmail.com
+description: >
+  Documentation and useful resources for those engaged in the Nustory Project: infusing AI into marketing. 
+baseurl: "/testing"
+url: "https://www.nustory.org"
+permalink: pretty
+#favicon: /path/to/favicon.png
+
+#gh_sponsor: chrisrhymes
+#hide_share_buttons: true
+#theme_color: '#eeeeee'
+#fixed_navbar: top
+#direction: ltr
+
+#paginate: 5
+#paginate_path: "/blog/page:num"
+
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  # shortname: my_disqus_shortname
+  shortname: 
+
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - kramdown-parser-gfm
+  - jekyll-redirect-from
+
+exclude: 
+  - Gemfile
+  - clean-theme.gemspec
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+livereload: true
+
+sass:
+  style: compressed
+  source_dir: _sass
+
+#google_analytics: UA-code-here
+#google_analytics: G-H5Q13Q8JV5
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      hero_image: https://github.com/CagedEther/Nustory/assets/142103717/ee1f9c1f-8b55-4d62-8bdb-05ed82d6cc96
+      
