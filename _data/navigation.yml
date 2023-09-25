@@ -1,1 +1,7 @@
-
+- name: Marketing strategy
+  link: /page-1/
+- name: Marketing execution
+  link: /blog/
+  dropdown: 
+    - name: Page 2
+      link: /page-2/
