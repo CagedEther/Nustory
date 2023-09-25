@@ -15,10 +15,10 @@ When it comes to building personas for a marketing brand or campaign, this has t
 Let’s run through an example using ChatGPT, but note you can use other text-based Generative AI systems in much the same way. If we’re developing a marketing campaign for a new brand of organic soap and want to use marketing personas to better understand our audience, we can use a prompt such as “I need marketing personas for customers of organic soap”. Here are the results: 
 
 >### Persona 1: "Health-Conscious Hannah"
->**Age**: 30-45
->**Gender**: Female
->**Location**: Urban
->**Occupation**: Health and wellness coach, yoga instructor, or similar
+>**Age**: 30-45<br>
+>**Gender**: Female<br>
+>**Location**: Urban<br>
+>**Occupation**: Health and wellness coach, yoga instructor, or similar<br>
 >**Income**: $50,000 - $80,000 per year
 >
 >**Pain Points**:
@@ -43,10 +43,10 @@ Let’s run through an example using ChatGPT, but note you can use other text-ba
 >
 >### Persona 2: "Eco-Friendly Ethan"
 >
->**Age**: 22-35
->**Gender**: Male
->**Location**: Urban or suburban
->**Occupation**: Freelancer, tech industry, NGO worker
+>**Age**: 22-35<br>
+>**Gender**: Male<br>
+>**Location**: Urban or suburban<br>
+>**Occupation**: Freelancer, tech industry, NGO worker<br>
 >**Income**: $30,000 - $60,000 per year
 >
 >**Pain Points**:
@@ -70,10 +70,10 @@ Let’s run through an example using ChatGPT, but note you can use other text-ba
 >---
 >
 >### Persona 3: "Mindful Millie"
->**Age**: 18-25
->**Gender**: Non-specific
->**Location**: College town or urban area
->**Occupation**: Student, part-time job or internship
+>**Age**: 18-25<br>
+>**Gender**: Non-specific<br>
+>**Location**: College town or urban area<br>
+>**Occupation**: Student, part-time job or internship<br>
 >**Income**: $10,000 - $30,000 per year (mostly disposable)
 >
 >**Pain Points**:
