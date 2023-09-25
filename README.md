@@ -22,3 +22,5 @@ Nustory runs academic projects which pair business and marketing students with n
 ## What does a Nustory project look like 
 
 [The Nustory Project outline](Nustory_Project.md) - The typical 10-week project to help an organization inject AI into its marketing. 
+
+<img width="955" alt="nustory banner GH pages aug 2023" src="https://github.com/CagedEther/Nustory/assets/142103717/ee1f9c1f-8b55-4d62-8bdb-05ed82d6cc96">
