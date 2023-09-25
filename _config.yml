@@ -4,10 +4,10 @@ remote_theme: chrisrhymes/bulma-clean-theme
 lang: en
 title: Nustory 
 tagline: Nustory Project
-email: popularmusicfront@gmail.com
+email: darylapereira@gmail.com
 description: >
   Documentation and useful resources for those engaged in the Nustory Project: infusing AI into marketing. 
-baseurl: "/testing"
+baseurl: "/nustory"
 url: "https://www.nustory.org"
 permalink: pretty
 #favicon: /path/to/favicon.png
