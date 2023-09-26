@@ -72,7 +72,7 @@ What are some tips for the best headline? If you can get to short and provocativ
 
 The goal of this blog, like many others, is to explain concepts in a way that is relatable and conversational: like the way you might tell something to a friend. Generative AI tools like ChatGPT do a great job of explaining concepts but as we’ve already covered, can be a little dry with the output they provide. Here are some great examples to consider: 
 
-[Leadership Blindspots That Make Employees Trust You Less](https://www.notion.so/f09170d6b4fc445caa1a1884ed21b94f?pvs=21)
+[Leadership Blindspots That Make Employees Trust You Less](https://www-forbes-com.cdn.ampproject.org/v/s/www.forbes.com/sites/alainhunkins/2023/08/16/leadership-blindspots-that-make-employees-trust-you-less/amp/?amp_gsa=1&amp_js_v=a9&usqp=mq331AQGsAEggAID#amp_tf=From%20%251%24s&aoh=16922833346664&csi=0&referrer=https%3A%2F%2Fwww.google.com&ampshare=https%3A%2F%2Fwww.forbes.com%2Fsites%2Falainhunkins%2F2023%2F08%2F16%2Fleadership-blindspots-that-make-employees-trust-you-less%2F)
 
 In this post on building trust in business, the style is informal, using short sentences, simple words, and a lot of ‘you’ to put the reader in the driving seat. This brings what could be a dry topic to life. 
 
