@@ -1,5 +1,10 @@
 - name: Marketing strategy
-  link: /page-1/
+  #link: /AI_for_Marketing/
+  dropdown: 
+    - name: AI for marketing
+      link: /AI_for_Marketing/
+    - name: Creating personas  
+      link: /Creating_Personas_With_AI/
 - name: Marketing execution
   link: /blog/
   dropdown: 
