@@ -11,6 +11,7 @@ baseurl: "/"
 url: "https://www.nustory.org"
 permalink: pretty
 #favicon: /path/to/favicon.png
+footer_menu: footer
 
 #gh_sponsor: chrisrhymes
 #hide_share_buttons: true
