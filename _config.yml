@@ -10,7 +10,7 @@ description: >
 baseurl: "/"
 url: "https://www.nustory.org"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /favicon-32x32.png
 footer_menu: footer
 
 #gh_sponsor: chrisrhymes
