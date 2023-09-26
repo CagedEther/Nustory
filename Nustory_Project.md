@@ -1,4 +1,9 @@
-<img width="955" alt="nustory banner wide aug 2023" src="https://github.com/CagedEther/Nustory/assets/142103717/f69e44ae-0723-41e6-9731-957da2a1f933">
+---
+title: Nustory project overview
+#subtitle: Brand marketing in the era of AI
+layout: page
+show_sidebar: false
+---
 
 # Nustory project-based learning
 ## Exploration into the use of artificial intelligence for marketing strategy and execution
