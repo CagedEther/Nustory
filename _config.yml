@@ -7,7 +7,7 @@ tagline: Nustory Project
 email: darylapereira@gmail.com
 description: >
   Documentation and useful resources for those engaged in the Nustory Project: infusing AI into marketing. 
-baseurl: "/nustory"
+baseurl: "/"
 url: "https://www.nustory.org"
 permalink: pretty
 #favicon: /path/to/favicon.png
