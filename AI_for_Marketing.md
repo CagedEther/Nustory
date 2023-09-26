@@ -1,4 +1,9 @@
-<img width="955" alt="nustory banner wide aug 2023" src="https://github.com/CagedEther/Nustory/assets/142103717/f69e44ae-0723-41e6-9731-957da2a1f933">
+---
+title: AI for marketing
+#subtitle: Brand marketing in the era of AI
+layout: page
+show_sidebar: false
+---
 
 # **The potential for infusing generative AI into marketing**
 
