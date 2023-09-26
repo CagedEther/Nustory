@@ -1,12 +1,21 @@
-- name: Marketing strategy
+- name: Getting started
   #link: /AI_for_Marketing/
   dropdown: 
     - name: AI for marketing
       link: /AI_for_Marketing/
+    - name: Prompt design 
+      link: /Prompt_Design/
+- name: Marketing strategy
+  #link: /AI_for_Marketing/
+  dropdown: 
     - name: Creating personas  
       link: /Creating_Personas_With_AI/
+    - name: Empathy mapping
+      link: /Empathy_Mapping/
+    - name: Summarizing text
+      link: /AI_for_text_summarization/     
 - name: Marketing execution
-  link: /blog/
+  #link: /blog/
   dropdown: 
-    - name: Page 2
-      link: /page-2/
+    - name: Writing with AI
+      link: /Writing_With_AI/
