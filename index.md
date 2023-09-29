@@ -21,6 +21,7 @@ Nustory runs academic projects which pair business and marketing students with n
 [Summarizing text with AI](AI_for_text_summarization.md) - How to use AI tools to quickly summarize lengthy transcripts. <br>
 [Empathy mapping for interviews](Empathy_Mapping.md) - Using the empathy map framework as a guide in customer interviews. <br> 
 [Creating personas with AI](Creating_Personas_With_AI.md) - How to approach market segmentation and the building of customer representations.<br>
+[Developing a Marketing Concept Brief](Marketing_Concept_Brief.md)
 [Writing with AI](Writing_With_AI.md) - Tips on creating blogs and other external-facing marketing assets with AI. 
 
 
