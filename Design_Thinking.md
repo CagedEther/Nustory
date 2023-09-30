@@ -66,53 +66,53 @@ Ideally a design thinking workshop should be held in-person in a room with space
 
 Here’s an example structure for a 1.5 hour design thinking workshop: 
 
-### Workshop Agenda: Understanding the Customer
-
-**Total Time: 1 Hour 30 Minutes**
-
----
-
-### Preparation (Before the Workshop)
-
-- Send out materials explaining the objective of understanding the customer deeply.
-- Share any existing data or research about the customers.
-
----
-
-### Part 1: Introduction (10 minutes)
-
-- Welcome & Ice Breaker
-- Overview of workshop objective: Understanding the Customer
-
-### Part 2: Empathize (40 minutes)
-
-- **Group Discussion (25 mins):**
-    - Share insights and existing knowledge about the customers.
-- **Persona Discussion (15 mins):**
-    - Evaluate detailed personas based on gathered information, outlining customer needs, pain points, motivations, and goals.
-
-### Part 3: Define (20 minutes)
-
-- **Needs Statement (10 mins):**
-    - Synthesize insights and craft a clear problem statement regarding customer needs and challenges.
-- **Assumption Testing (10 mins):**
-    - List assumptions and plan how to test them to gain clearer insights into customer behavior and preferences.
-
-### Part 4: Customer journey mapping (15 minutes)
-
-- Develop a customer journey map to visualize the customer experience, identifying touchpoints, emotions, and opportunities for improvement.
-
-### Part 5: Action plan and next steps (10 minutes)
-
-- Discuss the insights gained and outline the next steps for further research, testing assumptions, or developing solutions based on the understanding of the customer.
-
-### Part 6: Closing (5 minutes)
-
-- Thank the participants.
-- Recap the insights and next steps.
-- Collect feedback on the workshop for future improvement.
-
----
+>### Workshop Agenda: Understanding the Customer
+>
+>**Total Time: 1 Hour 30 Minutes**
+>
+>---
+>
+>### Preparation (Before the Workshop)
+>
+>- Send out materials explaining the objective of understanding the customer deeply.
+>- Share any existing data or research about the customers.
+>
+>---
+>
+>### Part 1: Introduction (10 minutes)
+>
+>- Welcome & Ice Breaker
+>- Overview of workshop objective: Understanding the Customer
+>
+>### Part 2: Empathize (40 minutes)
+>
+>- **Group Discussion (25 mins):**
+>    - Share insights and existing knowledge about the customers.
+>- **Persona Discussion (15 mins):**
+>    - Evaluate detailed personas based on gathered information, outlining customer needs, pain points, motivations, and goals.
+>
+>### Part 3: Define (20 minutes)
+>
+>- **Needs Statement (10 mins):**
+>    - Synthesize insights and craft a clear problem statement regarding customer needs and challenges.
+>- **Assumption Testing (10 mins):**
+>    - List assumptions and plan how to test them to gain clearer insights into customer behavior and preferences.
+>
+>### Part 4: Customer journey mapping (15 minutes)
+>
+>- Develop a customer journey map to visualize the customer experience, identifying touchpoints, emotions, and opportunities for improvement.
+>
+>### Part 5: Action plan and next steps (10 minutes)
+>
+>- Discuss the insights gained and outline the next steps for further research, testing assumptions, or developing solutions based on the understanding of the customer.
+>
+>### Part 6: Closing (5 minutes)
+>
+>- Thank the participants.
+>- Recap the insights and next steps.
+>- Collect feedback on the workshop for future improvement.
+>
+>---
 
 It’s key to ensure that any learnings that come through the session are incorporated into the Marketing Concept Brief so that you can carry these insights into campaign testing and execution. One particular value of digital marketing is that assumptions around pain points and needs of the customer can be translated into quantifiable tests that can be ran as pilots through platforms like paid social media. 
 
