@@ -102,7 +102,6 @@ As you can see with many of the examples shared here, coupling AI tools with mar
 ## **Resources**
 
 [**AI-powered marketing and sales reach new heights with generative AI**](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-powered-marketing-and-sales-reach-new-heights-with-generative-ai)<br> 
-
 A detailed post from McKinsey including stats on current adoption rates and a guide to getting started with generative AI for marketing. 
 
 [**How to design an AI marketing strategy**](https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategyhttps://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy)<br>
