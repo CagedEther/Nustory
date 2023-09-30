@@ -37,7 +37,7 @@ A Design Thinking Needs Statement is a useful device to uncover deep human truth
 
 A needs statement, sometimes known as a problem statement or point of view (POV) statement, is a clear, concise description of the user's needs, the challenges they face, and the insights gathered during the Empathize phase of the design thinking process. It is used to define and articulate the problem that the design team aims to solve.
 
-### **Components of a Needs Statement in Design Thinking**
+### Components of a Needs Statement in Design Thinking
 
 1. **User:**
     - Identify and describe the user or stakeholder for whom you are solving the problem.
@@ -46,13 +46,13 @@ A needs statement, sometimes known as a problem statement or point of view (POV)
 3. **Insight:**
     - Provide a clear insight into the problem based on research, interviews, and observations.
 
-### The f**ormat of a Needs Statement**
+### The format of a Needs Statement
 
 A common format for a needs statement in Design Thinking is:
 
 "[User] needs [need] because [insight]."
 
-### **Example**
+### Example
 
 "Single parents need a more flexible work schedule because traditional 9-5 jobs do not accommodate their child care responsibilities."
 
@@ -66,47 +66,47 @@ Ideally a design thinking workshop should be held in-person in a room with space
 
 Here’s an example structure for a 1.5 hour design thinking workshop: 
 
-### **Workshop Agenda: Understanding the Customer**
+### Workshop Agenda: Understanding the Customer
 
 **Total Time: 1 Hour 30 Minutes**
 
 ---
 
-### **Preparation (Before the Workshop)**
+### Preparation (Before the Workshop)
 
 - Send out materials explaining the objective of understanding the customer deeply.
 - Share any existing data or research about the customers.
 
 ---
 
-### **Part 1: Introduction (10 minutes)**
+### Part 1: Introduction (10 minutes)
 
 - Welcome & Ice Breaker
 - Overview of workshop objective: Understanding the Customer
 
-### **Part 2: Empathize (40 minutes)**
+### Part 2: Empathize (40 minutes)
 
 - **Group Discussion (25 mins):**
     - Share insights and existing knowledge about the customers.
 - **Persona Discussion (15 mins):**
     - Evaluate detailed personas based on gathered information, outlining customer needs, pain points, motivations, and goals.
 
-### **Part 3: Define (20 minutes)**
+### Part 3: Define (20 minutes)
 
 - **Needs Statement (10 mins):**
     - Synthesize insights and craft a clear problem statement regarding customer needs and challenges.
 - **Assumption Testing (10 mins):**
     - List assumptions and plan how to test them to gain clearer insights into customer behavior and preferences.
 
-### **Part 4: Customer journey mapping (15 minutes)**
+### Part 4: Customer journey mapping (15 minutes)
 
 - Develop a customer journey map to visualize the customer experience, identifying touchpoints, emotions, and opportunities for improvement.
 
-### **Part 5: Action plan and next steps (10 minutes)**
+### Part 5: Action plan and next steps (10 minutes)
 
 - Discuss the insights gained and outline the next steps for further research, testing assumptions, or developing solutions based on the understanding of the customer.
 
-### **Part 6: Closing (5 minutes)**
+### Part 6: Closing (5 minutes)
 
 - Thank the participants.
 - Recap the insights and next steps.
