@@ -1,5 +1,6 @@
 ---
 title: Design thinking
+description: How to use design thinking to develop more customer-focused marketing campaigns
 #subtitle: Brand marketing in the era of AI
 layout: page
 show_sidebar: false
