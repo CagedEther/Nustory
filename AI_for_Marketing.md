@@ -101,23 +101,21 @@ As you can see with many of the examples shared here, coupling AI tools with mar
 
 ## **Resources**
 
-[**AI-powered marketing and sales reach new heights with generative AI**](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-powered-marketing-and-sales-reach-new-heights-with-generative-ai) 
+[**AI-powered marketing and sales reach new heights with generative AI**](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-powered-marketing-and-sales-reach-new-heights-with-generative-ai)<br> 
 
 A detailed post from McKinsey including stats on current adoption rates and a guide to getting started with generative AI for marketing. 
 
-[**How to design an AI marketing strategy**](https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategyhttps://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy)
-
+[**How to design an AI marketing strategy**](https://hbr.org/2021/07/how-to-design-an-ai-marketing-strategyhttps://hbr.org/2021/07/how-to-design-an-ai-marketing-strategy)<br>
 A useful guide from the Harvard Business Review on thinking through strategic development, although note that this predated the emergence of generative AI and so doesn’t take that into account. 
 
-[**The role of artificial intelligence in marketing**](https://sproutsocial.com/insights/ai-marketing/) 
-
+[**The role of artificial intelligence in marketing**](https://sproutsocial.com/insights/ai-marketing/) <br>
 A good article from Sprout Social on how AI is currently being used in marketing, and what are the opportunities for this technology. 
 
-[**Generative AI for business leaders**](https://www.linkedin.com/learning/generative-ai-for-business-leaders/generative-ai-for-business-leaders) 
-
+[**Generative AI for business leaders**](https://www.linkedin.com/learning/generative-ai-for-business-leaders/generative-ai-for-business-leaders) <br>
 A nice course that talks through the business imperative behind generative AI and how to think about adoption into business. (LinkedIn Learning account required).
 
-[**An explainer on the technology underpinning Generative AI**](https://ig.ft.com/generative-ai/)
-
+[**An explainer on the technology underpinning Generative AI**](https://ig.ft.com/generative-ai/)<br>
 A simple page-level tutorial on Large Language Models (LLMs) and the technology that underpins them. 
 
+[**Research on how marketers are using AI**](https://www.forbes.com/sites/georgedeeb/2023/09/06/artificial-intelligence-is-taking-over-marketing/?sh=4539132f5588)<br>
+Forbes coverage of research on how marketers are currently using AI: whether that's across different areas of marketing or the tools that are used. 
