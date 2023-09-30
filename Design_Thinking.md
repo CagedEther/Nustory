@@ -120,6 +120,8 @@ Test results are useful inputs for further design thinking workshops and documen
 
 As a key component to marketing is engaging your customers in unique and differentiated ways that really touch on their pain points or motivators, design thinking provides a wonderful framework for achieving this.
 
+## Resources
+
 [Why design thinking works](https://hbr.org/2018/09/why-design-thinking-works) - Detailed article from HBR on the relationship between design thinking and business <br>
 [Design thinking for marketing](https://www.linkedin.com/pulse/how-use-design-thinking-marketing-warren-knight/) - How to think about infusing design thinking into marketing<br>
 [Integrating AI into design thinking](https://www.linkedin.com/pulse/ai-revolution-design-thinking-disruption-integration-future-johnston/) - How we can leverage AI to improve the design thinking process 
