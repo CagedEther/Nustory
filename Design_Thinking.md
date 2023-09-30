@@ -119,3 +119,8 @@ It’s key to ensure that any learnings that come through the session are incorp
 Test results are useful inputs for further design thinking workshops and documents like Needs Statements should be seen as living documents that can evolve over time, as you learn more from running your marketing campaigns, or as markets and customer behaviors change. 
 
 As a key component to marketing is engaging your customers in unique and differentiated ways that really touch on their pain points or motivators, design thinking provides a wonderful framework for achieving this.
+
+[Why design thinking works](https://hbr.org/2018/09/why-design-thinking-works) - Detailed article from HBR on the relationship between design thinking and business <br>
+[Design thinking for marketing](https://www.linkedin.com/pulse/how-use-design-thinking-marketing-warren-knight/) - How to think about infusing design thinking into marketing<br>
+[Integrating AI into design thinking](https://www.linkedin.com/pulse/ai-revolution-design-thinking-disruption-integration-future-johnston/) - How we can leverage AI to improve the design thinking process 
+
