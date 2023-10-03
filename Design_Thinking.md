@@ -84,12 +84,12 @@ Here’s an example structure for a 1.5 hour design thinking workshop:
 >- Welcome & Ice Breaker
 >- Overview of workshop objective: Understanding the Customer
 >
->### Part 2: Empathize (40 minutes)
+>### Part 2: Empathize (30 minutes)
 >
->- **Group Discussion (25 mins):**
->    - Share insights and existing knowledge about the customers.
 >- **Persona Discussion (15 mins):**
 >    - Evaluate detailed personas based on gathered information, outlining customer needs, pain points, motivations, and goals.
+>- **Group Discussion (15 mins):**
+>    - Share insights and existing knowledge about the customers.
 >
 >### Part 3: Define (20 minutes)
 >
