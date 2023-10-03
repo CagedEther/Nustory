@@ -118,6 +118,10 @@ It’s key to ensure that any learnings that come through the session are incorp
 
 Test results are useful inputs for further design thinking workshops and documents like Needs Statements should be seen as living documents that can evolve over time, as you learn more from running your marketing campaigns, or as markets and customer behaviors change. 
 
+## Design thinking and AI 
+
+The design thinking process can be enhanced with AI in varous ways thanks to its capabilities in advanced data analytics, user behavior predictions, and rapid prototyping. By analyzing vast datasets, AI can provide deeper insights into user needs and behaviors during the Empathize stage, ensuring a more accurate understanding of the end user, such as [in the building of personas](Prompt_Design.md). In the Prototyping phase, AI can be employed to develop creative (messaging and visuals) that can be used in a pilot marketing campaign. Lastly, in the Test phase, AI can analyze real-time user feedback to identify patterns and trends, recommending refinements and ensuring a more user-centric outcome. Thus, AI acts as an invaluable tool in enhancing and refining the design thinking process, ensuring data-driven, efficient, and innovative solutions.
+
 As a key component to marketing is engaging your customers in unique and differentiated ways that really touch on their pain points or motivators, design thinking provides a wonderful framework for achieving this.
 
 ## Resources
