@@ -33,11 +33,11 @@ Through early prototyping and testing (running pilots), marketers can identify p
 
 ## Understanding the customer with a Needs Statement
 
-A Design Thinking Needs Statement is a useful device to uncover deep human truths about a customer. This can help uncover new creative territory that can differentiate you from your competitors. 
+A 'design thinking needs statement' is a useful device to uncover deep human truths about a customer. This can help uncover new creative territory that can differentiate you from your competitors. 
 
 A needs statement, sometimes known as a problem statement or point of view (POV) statement, is a clear, concise description of the user's needs, the challenges they face, and the insights gathered during the Empathize phase of the design thinking process. It is used to define and articulate the problem that the design team aims to solve.
 
-### Components of a Needs Statement in Design Thinking
+### Components of a Needs Statement in design thinking
 
 1. **User:**
     - Identify and describe the user or stakeholder for whom you are solving the problem.
@@ -48,7 +48,7 @@ A needs statement, sometimes known as a problem statement or point of view (POV)
 
 ### The format of a Needs Statement
 
-A common format for a needs statement in Design Thinking is:
+A common format for a needs statement in design thinking is:
 
 "[User] needs [need] because [insight]."
 
