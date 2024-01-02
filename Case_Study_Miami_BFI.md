@@ -111,7 +111,9 @@ While we are still at the early stages of Generative AI, this project demonstrat
 >
 > - Robert Lock, MBA Student, University of Miami
 
-## The team working on this project
+<br> <br>
+
+## The team 
 
 ### Black Farmers Index Project Sponsor
 
