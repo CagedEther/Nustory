@@ -19,7 +19,7 @@ As Kaia Shivers, Founder and CEO of the Black Farmers Index pointed out, many bl
 
 The project involved creation of a marketing strategy aimed at black farmers, turning this into a campaign that could be executed, and sharing insights and recommendations based on the campaign. AI was infused throughout this process, and its applicability, performance, and usefulness was monitored and reflected on. 
 
-# How AI bolsters marketing strategy and understanding the audience
+# Marketing strategy and AI
 
 A core component of marketing strategy involves understanding the audience so you can create marketing campaigns that are tailored to them. So, for a campaign targeting farmers in the black community, how exactly can you build this understanding? 
 
@@ -140,8 +140,10 @@ Nidish Mada, Principal, Deloitte Consulting
 Daryl Pereira, IBM Senior Brand & Content Strategist (Nustory project lead) <br>
 Nustory Design Lead: Michael Powell, Creative Director, IBM (Nustory design lead) 
 
+<br> <br>
+
 # Resources 
 
-[Final student presentation (Nov 30, 2023)](https://ibm.box.com/shared/static/4lzn3nfte5su6vpuueraexuzhjud1ffb.pdf)<br>
-[Podcast: Liam Anderson on incorporating AI into experiential projects](https://listen.casted.us/public/95/Business-Schooled-9c799f1a/9c856922)
+- [Final student presentation (Nov 30, 2023)](https://ibm.box.com/shared/static/4lzn3nfte5su6vpuueraexuzhjud1ffb.pdf)<br>
+- [Podcast: Liam Anderson on incorporating AI into experiential projects](https://listen.casted.us/public/95/Business-Schooled-9c799f1a/9c856922)
 
