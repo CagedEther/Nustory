@@ -7,7 +7,7 @@ show_sidebar: false
 
 # Background for the project
 
-As advances in artificial intelligence (AI) open up new business opportunities, how do we prepare the next generation of leaders to understand and use this technology? This is the mission of the Nustory Project which recently teamed up with MBA students from the University of Miami to explore the potential of AI for marketing with the non-profit Black Farmers Index: an organization dedicated to improving food security within the black population. 
+As advances in artificial intelligence (AI) open up new business opportunities, how do we prepare the next generation of leaders to understand and use this technology? This is the mission of the Nustory Project which recently teamed up with [MBA students from the University of Miami](https://www.herbert.miami.edu/graduate/mba-programs.html) to explore the potential of AI for marketing with the non-profit [Black Farmers Index](https://blackfarmersindex.com/): an organization dedicated to improving food security within the black population. 
 
 Over the course of ten weeks, a group of five students with a coaching mentor from Deloitte Consulting, worked on the challenge of creating a campaign to entice black farmers in the US to become USDA certified organic. 
 
