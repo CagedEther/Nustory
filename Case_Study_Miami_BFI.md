@@ -25,7 +25,7 @@ A core component of marketing strategy involves understanding the audience so yo
 
 The student team used materials from Black Farmers Index, industry reports, and other online resources to understand Black farmer demographics. To build more detailed personas, the team [used AI tools ChatGPT and Claude](https://nustory.org/Creating_Personas_With_AI/). Using these tools, they created three initial personas: the legacy farmer, the new farmer, and the community advocate farmer. One thing that stood out was the degree to which the AI tools can create differentiated personas. 
 
-[Insert image from presentation of different farmer personas]
+<img width="1157" alt="BFI Miami Presentation AI Personas" src="https://github.com/CagedEther/NuStory/assets/142103717/b69505cc-dc7e-4864-9bbb-5ee743e5aaca">
 
 For instance, here is a Legacy Farmer persona: 
 
@@ -81,13 +81,13 @@ While the copy was not strong enough to put in market directly, it did offer us 
 
 Once we had the messaging finalized, we needed to create accompanying visuals. Using text-to-image tool Midjourney, we created the following two ads for the first test: 
 
-[Image with Ad 1 / Ad 2 - slide 2]
+<img width="1058" alt="BFI Miami FB Ad Test 1" src="https://github.com/CagedEther/NuStory/assets/142103717/0bd09fd7-c51d-4df2-88b6-68a173f7cfa5">
 
 Within a week of running these ads on Facebook, we were able to get statistically significant returns. The first ad “Join the organic movement” had a 10% higher engagement rate. 
 
 Based on these results, we worked the winning Test A copy into two different variations (keeping the visuals the same), and created short social videos with these frames: 
 
-[Image with Test A / Test B - slide 2]
+<img width="1124" alt="BFI Miami FB Ad Test 2" src="https://github.com/CagedEther/NuStory/assets/142103717/b7f4c53a-c07d-4e60-a4b3-df3f1baf5b07">
 
 The copy for Test A is based on the Hero archetype, whereas Test B leans more into the Explorer archetype. 
 
