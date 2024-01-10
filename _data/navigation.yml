@@ -1,6 +1,8 @@
 - name: Getting started
   #link: /AI_for_Marketing/
   dropdown: 
+    - name: Black Farmers Index case study
+      link: /Case_Study_Miami_BFI/
     - name: AI for marketing
       link: /AI_for_Marketing/
     - name: Prompt design 
