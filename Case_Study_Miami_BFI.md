@@ -1,5 +1,5 @@
 ---
-title: "Case study: Using AI to raise awareness for organic farming with Black Farmers Index and University of Miami" 
+title: "Case study: Using AI to raise awareness for organic farming with Black Farmers Index and University of Miami Herbert Business School" 
 #subtitle: Brand marketing in the era of AI
 layout: page
 show_sidebar: false
@@ -7,7 +7,7 @@ show_sidebar: false
 
 # Background for the project
 
-As advances in artificial intelligence (AI) open up new business opportunities, how do we prepare the next generation of leaders to understand and use this technology? This is the mission of the Nustory Project which recently teamed up with [MBA students from the University of Miami](https://www.herbert.miami.edu/graduate/mba-programs.html) to explore the potential of AI for marketing with the non-profit [Black Farmers Index](https://blackfarmersindex.com/): an organization dedicated to improving food security within the black population. 
+As advances in artificial intelligence (AI) open up new business opportunities, how do we prepare the next generation of leaders to understand and use this technology? This is the mission of the Nustory Project which recently teamed up with [MBA students from the University of Miami Herbert Business School](https://www.herbert.miami.edu/graduate/mba-programs.html) to explore the potential of AI for marketing with the non-profit [Black Farmers Index](https://blackfarmersindex.com/): an organization dedicated to improving food security within the black population. 
 
 Over the course of ten weeks, a group of five students with a coaching mentor from Deloitte Consulting, worked on the challenge of creating a campaign to entice black farmers in the US to become USDA certified organic. 
 
@@ -55,7 +55,7 @@ We ran through these personas in a [Design Thinking workshop](https://nustory.or
 
 > *After we created different personas using AI, we went through them in detail with Dr Shivers to define them based on what we were trying to appeal to with the campaign. We listened to her stories of various farmers that she works with. And we're educated on the history and long term issues that have affected the black farming community for years.*
 >
-> - Indira Dandridge, MBA Student, University of Miami
+> - Indira Dandridge, MBA Student, University of Miami Herbert Business School
 
 The creation of these personas set us up well for the next phase: turning the insights into a marketing campaign. 
 
@@ -77,7 +77,7 @@ While the copy was not strong enough to put in market directly, it did offer us 
 
 > *The Jungian archetype model is very useful because it taps into a set of human emotions that are universal. So it’s easy to use them to create messages with different archetypes that relate directly to the personas.*
 >
-> - Flavia Cespedes, MBA Student, University of Miami
+> - Flavia Cespedes, MBA Student, University of Miami Herbert Business School
 
 Once we had the messaging finalized, we needed to create accompanying visuals. Using text-to-image tool Midjourney, we created the following two ads for the first test: 
 
@@ -97,7 +97,7 @@ After running this test for a few days, we received the results: the ‘legacy�
 
 # Insights and recommendations
 
-Based on the performance of the ‘legacy’ messaging in the Facebook ad campaign, the University of Miami students made recommendations to the Black Farmers Index around how this could be applied to other marketing channels, such as the website, email marketing, and even events.
+Based on the performance of the ‘legacy’ messaging in the Facebook ad campaign, the University of Miami Herbert Business School students made recommendations to the Black Farmers Index around how this could be applied to other marketing channels, such as the website, email marketing, and even events.
 
 This form of brand identity and messaging work is typically costly, and normally reserved for large organizations with substantial marketing budgets. AI offers the opportunity for disruption in this field: opening up brand marketing to much smaller organizations and non-profits like the Black Farmers Index. 
 
@@ -109,7 +109,7 @@ While we are still at the early stages of Generative AI, this project demonstrat
 
 > *Through this project, we learned that the potential benefit to marketing of the AI tools currently available, whether that’s for refining an organization’s messaging for email campaigns, social media, or website copy. Beyond that, these tools can help with preparing scripts for meetings, or producing summaries from training sessions. There really is a wealth of resources out there.* 
 >
-> - Robert Lock, MBA Student, University of Miami
+> - Robert Locke, MBA Student, University of Miami Herbert Business School
 
 <br> <br>
 
@@ -119,7 +119,7 @@ While we are still at the early stages of Generative AI, this project demonstrat
 
 Dr Kaia Shivers, Founder & CEO, Black Farmers Index 
 
-### University of Miami MBA Team
+### University of Miami Herbert Business School MBA Team
 
 Indira Dandridge<br>
 Stephanie Guevera <br>
@@ -127,9 +127,9 @@ Flavia Cespedes <br>
 Robert Locke <br>
 Arsh Tiku <br>
 
-### University of Miami ACE project lead 
+### University of Miami Herbert Business School ACE project lead 
 
-Liam Anderson, Director, Experiential Learning, University of Miami 
+Liam Anderson, Director, Experiential Learning, University of Miami Herbert Business School
 
 ### Deloitte Consulting Coach
 
