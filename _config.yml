@@ -2,11 +2,11 @@ remote_theme: chrisrhymes/bulma-clean-theme
 
 # Site Settings
 lang: en
-title: NuStory 
-tagline: NuStory Project
+title: Nustory 
+tagline: Nustory Project
 email: darylapereira@gmail.com
 description: >
-  Documentation and useful resources for those engaged in the NuStory Project: infusing AI into marketing. 
+  Documentation and useful resources for those engaged in the Nustory Project: infusing AI into marketing. 
 baseurl: "/"
 url: "https://www.nustory.org"
 permalink: pretty
