@@ -21,7 +21,9 @@
     - name: Design thinking
       link: /Design_Thinking/    
 - name: Marketing execution
-  #link: /blog/
+  #link: /AI_for_Marketing/
   dropdown: 
+    - name: Creating ads with AI
+      link: /Creating_Ads_With_AI/  
     - name: Writing with AI
       link: /Writing_With_AI/
