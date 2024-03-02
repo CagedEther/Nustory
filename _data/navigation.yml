@@ -23,7 +23,8 @@
 - name: Marketing execution
   #link: /AI_for_Marketing/
   dropdown: 
+    - name: Writing with AI
+      link: /Writing_With_AI/  
     - name: Creating ads with AI
       link: /Creating_Ads_With_AI/  
-    - name: Writing with AI
-      link: /Writing_With_AI/
+
