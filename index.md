@@ -24,6 +24,7 @@ Nustory runs academic projects which pair business and marketing students with s
 [Developing a Marketing Concept Brief](Marketing_Concept_Brief.md) - How to build out this pivotal document that links strategy with execution.<br>
 [Using design thinking for marketing](Design_Thinking.md) - How design thinking can be applied to marketing.<br>
 [Writing with AI](Writing_With_AI.md) - Tips on creating blogs and other external-facing marketing assets with AI. 
+[Creating ads with AI](Creating_Ads_With_AI.md) - Tips on creating blogs and other external-facing marketing assets with AI. 
 
 
 ## What does a Nustory project look like 
