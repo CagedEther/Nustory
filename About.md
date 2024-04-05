@@ -13,7 +13,7 @@ Central to the Nustory Project is an academic program designed to forge a symbio
 
 We prepare our students not just for the current landscape but also for future shifts in the industry.
 
-- [Daryl Pereira](https://www.linkedin.com/in/darylpereira/)
+\- [Daryl Pereira](https://www.linkedin.com/in/darylpereira/)
 
 # Why the Nustory Project
 
