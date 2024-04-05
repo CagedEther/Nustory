@@ -13,6 +13,8 @@ Central to the Nustory Project is an academic program designed to forge a symbio
 
 We prepare our students not just for the current landscape but also for future shifts in the industry.
 
+- [Daryl Pereira](https://www.linkedin.com/in/darylpereira/)
+
 # Why the Nustory Project
 
 We are currently at a pivotal moment in the history of technology and business, driven by recent advancements in the field of AI. Making sense of these changes: what they mean in terms of the value chain for business, and how to operationalize and develop the skills needed for this era are all key questions. The impact of this evolution is profound, affecting both the business world and academic institutions, particularly in terms of skill-building and curriculum development.
