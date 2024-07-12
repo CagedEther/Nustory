@@ -1,17 +1,17 @@
 ---
 title: Nustory Project
-subtitle: Exploring AI for sustainability and business
+subtitle: Exploring AI for marketing
 layout: page
 show_sidebar: false
 ---
 
 # The Nustory Innovation Lab
 
-Welcome to the Nustory Innovation Lab, where you can explore strategies for infusing AI into building sustainable businesses. The lab is built on principles of Open Innovation and is a collaboration between business and academia with the goal of advancing the field and building skills. 
+Welcome to the Nustory Innovation Lab, where you can explore strategies for infusing AI into marketing. The lab is built on principles of Open Innovation and is a collaboration between business and academia with the goal of advancing the field and building skills. 
 
 Nustory runs academic projects which pair business students with startups or non-profits over semester-long engagements with hands-on learning. See this [case study with University of Miami](Case_Study_Miami_BFI.md) for an example of a project in action.
 
-## Why infuse AI into sustainability marketing
+## Why infuse AI into marketing
 
 [AI for Marketing](AI_for_Marketing.md) - Background on the value of adding AI to marketing, across strategy, execution, operations, and analysis. 
 
@@ -24,7 +24,7 @@ Nustory runs academic projects which pair business students with startups or non
 [Developing a Marketing Concept Brief](Marketing_Concept_Brief.md) - How to build out this pivotal document that links strategy with execution.<br>
 [Using design thinking for marketing](Design_Thinking.md) - How design thinking can be applied to marketing.<br>
 [Writing with AI](Writing_With_AI.md) - Tips on creating blogs and other external-facing marketing assets with AI. <br>
-[Creating ads with AI](Creating_Ads_With_AI.md) - Tips on creating blogs and other external-facing marketing assets with AI. 
+[Creating ads with AI](Creating_Ads_With_AI.md) - How AI can help in the creation of promotional ads. 
 
 
 ## What does a Nustory project look like 
