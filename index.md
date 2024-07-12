@@ -1,6 +1,6 @@
 ---
 title: Nustory Project
-subtitle: Exploring AI for marketing
+subtitle: Exploring how AI is transforming marketing
 layout: page
 show_sidebar: false
 ---
